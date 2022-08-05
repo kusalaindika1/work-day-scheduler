@@ -2,21 +2,22 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
+  
 }
 
 textarea{
   background: transparent;
   border: none;
   resize: none;
-  color: #000000;
-  border-left: 1px solid black;
+  color: #1a1014;
+  border-left: 1px solid rgb(19, 17, 17);
   padding: 10px;
 }
 
 .jumbotron {
   text-align: center;
   background-color: transparent;
-  color: black;
+  color: rgb(79, 29, 161);
   border-radius: 0;
   border-bottom: 10px solid black;
 }
@@ -43,17 +44,17 @@ textarea{
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #7f4fe0;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #31a881;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #e62d2d;
   color: white;
 }
 
@@ -61,7 +62,7 @@ textarea{
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06AED5;
+  background-color: #8f1313;
   color: white;
 }
 
