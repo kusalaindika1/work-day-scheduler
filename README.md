@@ -32,8 +32,12 @@ THEN the saved events persist
 
 # git hub links
 
-Repository link
+Repository link-
+
+https://github.com/kusalaindika1/work-day-scheduler
 
 
 
-Deploy link
+Deploy link-
+
+https://kusalaindika1.github.io/work-day-scheduler/
